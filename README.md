@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Central-Michigan-University-seal.svg/1920px-Central-Michigan-University-seal.svg.png" width="200"/>
 </div>
 
 
